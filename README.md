@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @girish0011
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on AI,ML
+- 🌱 I’m currently learning Java/Python.
+- 👉 I want to become a Software Developer
 - 📫 How to reach me girishkadam0011@gmail.com
 
 <!---
